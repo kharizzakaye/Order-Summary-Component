@@ -1,5 +1,5 @@
-# React-Frontend-Mentor-Challenges
+# Order Summary Component
 
-A collection of solutions to the Frontend Mentor coding challenges made using React.
+User Interface (UI) created using different languages / technologies.
 
-- Interactive Rating Component
+- React
